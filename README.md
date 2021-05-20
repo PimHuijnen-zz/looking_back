@@ -3,7 +3,7 @@ Jupyter Notebook that visualizes trends in textual data of freqencies that repre
 
 Input is textual data of the format year.txt, like:
 
-1970.txt
+1970.txt \n
 1971.txt
 1972.txt
 1973.txt
