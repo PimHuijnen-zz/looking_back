@@ -8,4 +8,4 @@ Input is textual data of the format year.txt, like:
 1972.txt  
 1973.txt
 
-See /test_data for examples. Write 'print(test)' to test.
+See /test_data for examples.
